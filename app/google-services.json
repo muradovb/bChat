@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469813967325",
+    "firebase_url": "https://crocchat-c5b43.firebaseio.com",
+    "project_id": "crocchat-c5b43",
+    "storage_bucket": "crocchat-c5b43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469813967325:android:f8a6b923187c539b",
+        "android_client_info": {
+          "package_name": "com.bmmuradov.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469813967325-cgjct2dpihrp2p1opl9lr2eftuj43iiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmmuradov.mychat",
+            "certificate_hash": "89a313f1f8428c5f718ef51c94fae514c8ef83e8"
+          }
+        },
+        {
+          "client_id": "469813967325-k8925ns5281v94oe5c1guruu0cu13e6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN3q8yB4CfazwMBmRiDFbkYvfLoXWbQAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469813967325-k8925ns5281v94oe5c1guruu0cu13e6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
